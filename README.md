@@ -20,7 +20,3 @@ curl --proto '=https' --tlsv1.2 -fsSL https://drop-sh.fullyjustified.net | sh
 ```
 
 Or install via your package manager (e.g. `apt install tectonic` on Ubuntu).
-
-## GitHub Actions
-
-Every push to `main` builds `main.pdf` and publishes it as the **Latest CV** release on GitHub. Previous releases are automatically deleted.
