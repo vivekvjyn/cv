@@ -1,3 +1,4 @@
+*.pdf
 *.log
 *.aux
 *.xdv
@@ -5,4 +6,3 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
-main-moderncv.pdf
