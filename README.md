@@ -1,6 +1,6 @@
-# CV — Vivek Vijayan
+# Vivek Vijayan's CV
 
-A CV built with the [Modern-Deedy](https://github.com/Aarif123456/modern-deedy) LaTeX template, compiled with [tectonic](https://tectonic-typesetting.org/).
+Built with [Modern-Deedy](https://github.com/Aarif123456/modern-deedy) LaTeX template.
 
 ## Build locally
 
