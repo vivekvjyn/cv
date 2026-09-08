@@ -35,6 +35,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create latest main.pdf#Vivek-Vijayan-CV.pdf \
-            --title "Latest CV PDF" \
+          cp main.pdf Vivek-Vijayan-CV.pdf
+          gh release create latest Vivek-Vijayan-CV.pdf \
+            --title "Latest CV" \
             --notes "Auto-built from commit ${{ github.sha }}"
